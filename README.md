@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="./github.png" />
+  <img src="./github2.png" />
 </p>
