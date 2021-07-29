@@ -11,7 +11,7 @@
 
 ###### - [Instituto Federal de Educação, Ciência e Tecnologia de São Paulo](https://www.ifsp.edu.br/)
 ###### - [FreeCodeCamp](https://freecodecamp.org)
-
+####
 <p align="center">
   <span>
     <img src="https://github-readme-stats.vercel.app/api?username=larissabants&show_icons=true&theme=algolia" alt="Larissa's stats" height=175 />
