@@ -3,7 +3,7 @@
 </div>
 
 <p align="center">
-  <img src="./GitHub.png" />
+  <img src="./banner.jpg" />
 </p>
 
 ## Education: 
