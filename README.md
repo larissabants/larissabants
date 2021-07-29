@@ -4,11 +4,9 @@
 
 ## Education: 
 
-###### - [SuperHi](https://www.ifsp.edu.br/)
+###### - [Instituto Federala de São Paulo](https://www.ifsp.edu.br/)
 
 ## Socials:
-
-[![LinkedIN Badge](https://img.shields.io/badge/linkedin-Connect%20with%20Harold-0077b5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/larissa-barros-3083051bb/)
 
 <p align="center">
   <span>
