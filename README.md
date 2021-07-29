@@ -5,6 +5,7 @@
 ## Education: 
 
 ###### - [Instituto Federala de São Paulo](https://www.ifsp.edu.br/)
+###### - [FreeCodeCamp](https://freecodecamp.org)
 
 ## Socials:
 
