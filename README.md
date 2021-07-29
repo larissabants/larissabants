@@ -3,7 +3,7 @@
 </div>
 
 <p align="center">
-  <img src="./banner.jpg" />
+  <img src="./blackbanner.jpg" />
 </p>
 
 ## Education: 
