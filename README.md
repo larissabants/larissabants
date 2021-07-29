@@ -21,3 +21,5 @@
 </p>
 
 
+![Snake animation](https://github.com/larissabants/blob/output/github-contribution-grid-snake.svg)
+
