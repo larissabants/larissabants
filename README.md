@@ -1,3 +1,7 @@
+<div>
+<a href="https://github.com/larissabants">
+</div>
+
 <p align="center">
   <img src="./GitHub.png" />
 </p>
@@ -20,4 +24,8 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=larissabants&layout=compact&show_icons=true&theme=algolia" alt="Larissa's stats" height=175 />
   </span>
 </p>
+  
+<div>
+![Snake animation](https://github.com/larissabants/larissabants/blob/output/github-contribution-grid-snake.svg)
+</div>
 
